@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3a114e1a5067134a93e1b6ad78c2620
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerStatblock: {instanceID: 0}
+  - NPCStatblock: {instanceID: 0}
+  - Outcome: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - Shield: {fileID: 21300000, guid: dc1bb378ad46003468fcee65dc9339b3, type: 3}
+  - Magic: {fileID: 21300000, guid: de882ff59f2157e49a31356ad426e8af, type: 3}
+  - Melee: {fileID: 21300000, guid: 7305d46e75a00694fbd002d0e4407c23, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
